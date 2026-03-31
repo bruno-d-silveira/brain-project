@@ -5,3 +5,12 @@ LOG/
 *.json
 !package.json
 .env
+*.key
+*.pem
+*.secret
+credentials*
+notas_bbc.md
+briefing_bbc.md
+diario_brain.md
+dx_state.json
+brain_context.json

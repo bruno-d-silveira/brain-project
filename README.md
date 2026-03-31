@@ -134,4 +134,7 @@ Jiu Jitsu Black Belt | International Surfing Judge | AI/ML Engineer
 
 ## License
 
-GPL-3.0 — because knowledge should be open.
+Copyright 2026 Bruno Duarte da Silveira. All rights reserved.
+
+- **Code:** [AGPL-3.0](LICENSE) — use it, but open yours too
+- **Fables and stories:** [CC BY-NC-SA 4.0](fabulas/LICENSE.md) — read, share, credit, don't sell
