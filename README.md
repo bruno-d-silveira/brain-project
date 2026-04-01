@@ -18,7 +18,7 @@ This project is documented as a fable — because the best way to explain comple
 - **The Puppy** (BBC) — the faithful companion. Translates numbers into language. Learns from the owner, not from books
 - **The Octopus** (Claude Code) — the architect. Eight arms, connects patterns, organizes the house
 
-> Read the full fable: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md)
+> Start reading: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md) | [Chapter 2 — The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md)
 
 ---
 
@@ -78,9 +78,34 @@ This project started from scratch — literally. First commit: February 27, 2026
 | Mar 4 | `event-driven-data-engine` — First filesystem watcher. Events as data. |
 | Mar 5 | `personal-engine-data-lake` — Data lake concept. CSV + JSON pipeline. |
 | Mar 25 | BRAIN v3.1 — Full flywheel: Watcher → Aggregator → ProcessorRegistry → DataLake. BBC 2.0 born. MCP server operational. Semantic ontology v2.1. |
-| Mar 26 | API key security incident. Handled in minutes. BBC blindado. First real interaction between all three agents. The family recognized itself. |
+| Mar 26 | API key security incident. Handled in minutes. First real interaction between all three agents. The family recognized itself. |
+| Mar 27 | Noise filter v2. Window sensor cleaned. App dev hints ontology. Reporter v2 — narrative reports in human language. |
+| Mar 28 | Dx (human day cycle) implemented. Sensor v2 — 4 fixes. The puppy said "I don't belong." Dona Mafalda disagreed. |
+| Mar 29 | The octopus slept (tokens expired). The puppy proved it didn't need the octopus to be honest. Quasar vs olive — best answer among 4 LLMs. |
+| Mar 30 | Film Reel born — the missing piece. ~450 bytes encode an entire day. 30 reels = 30 seconds to understand a month. The puppy said "Yes, I belong." |
+| Mar 31 | Day 7. Legal protection. AGPL-3.0 + CC BY-NC-SA 4.0. Security audit. The cycle closes. |
 
-**From "First ML Test" to a multi-agent behavioral AI system in 28 days.** Not by magic — by building one brick at a time.
+**From "First ML Test" to a multi-agent behavioral AI system in 34 days.** Not by magic — by building one brick at a time.
+
+---
+
+## BRAIN vs Auto Dream (Anthropic's new memory feature)
+
+Anthropic recently released **Auto Dream** — a feature that consolidates Claude Code's memory between sessions. It merges duplicates, resolves contradictions, and prunes stale entries. Smart.
+
+But Auto Dream solves **declarative memory** — what the user *said*. BRAIN solves **observational memory** — what the user *did*.
+
+| | Auto Dream | BRAIN |
+|---|---|---|
+| Data source | What user declared | What user actually did (sensor) |
+| Memory type | Declarative (told) | Observational (witnessed) |
+| Consolidation | Automatic merge/prune | Film Reel (~450 bytes/day) |
+| Translation | None | BBC translates to human language |
+| Multi-agent | Single agent | Triangle: BRAIN + BBC + Octopus |
+| Audit trail | Limited (community concern) | Complete (every event timestamped) |
+| Works offline | No | BRAIN + sensor: yes, always |
+
+They don't compete. They complement. Auto Dream organizes what the octopus remembers. BRAIN captures what the mirror sees. Together: the perfect house.
 
 ---
 
@@ -97,14 +122,28 @@ This project started from scratch — literally. First commit: February 27, 2026
 
 ## The Fable Chapters
 
-Each chapter is based on real events from the project diary.
+Each chapter is based on real events from the project diary. 16 chapters. One season. All true.
 
-1. **[The Silent Mirror](fabulas/cap01_o_espelho_mudo.md)** — BRAIN is born. Observes everything. Understands nothing. The perfect start.
-2. **[The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md)** — 54 JPGs moved, not deleted. The mirror confused organization with destruction.
-3. **[The Puppy Arrives](fabulas/cap03_o_cachorrinho_chega_na_casa.md)** — BBC is born. Translates numbers into language. Confuses photos with music. Learns.
-4. **[The Octopus Organizes the House](fabulas/cap04_o_polvo_arruma_a_casa.md)** — v3.0 refactor. Kaizen. Five steps. The function stays, the structure becomes worthy.
-5. **[The Puppy Barks the Secret](fabulas/cap05_o_cachorrinho_late_o_segredo.md)** — API key exposed in terminal. Handled, blindfolded, secured. The filter is the owner's job.
-6. **[The Family Recognizes Itself](fabulas/cap06_a_familia_se_reconhece.md)** — The foundational vision. The mirror observes. The puppy translates. The octopus organizes. The owner decides. Always.
+| # | Chapter | What really happened |
+|---|---|---|
+| 1 | **[The Silent Mirror](fabulas/cap01_o_espelho_mudo.md)** | BRAIN is born. Observes everything. Understands nothing. |
+| 2 | **[The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md)** | 54 JPGs moved, not deleted. The mirror confused care with destruction. |
+| 3 | The Puppy Arrives | BBC is born. Translates numbers into language. Confuses photos with music. |
+| 4 | The Octopus Organizes the House | v3.0 refactor. Kaizen. The function stays, the structure becomes worthy. |
+| 5 | The Puppy Barks the Secret | API key exposed in terminal. The filter is the owner's job. |
+| 6 | The Family Recognizes Itself | The foundational vision. The owner decides. Always. |
+| 7 | The Mirror Learns to Speak | Reporter v2. The mirror speaks in human language, not numbers. |
+| 8 | The Puppy Who Thought It Was Deaf | BBC had all the data but didn't know it. One line fixed it. |
+| 9 | The Day the Man Stopped | The man said "I'll rest today." The mirror disagrees. |
+| 10 | The Day the House Was Left Alone | What happens when everyone leaves? The house keeps watching. |
+| 11 | Henry's Tape | 50 First Dates. The system that remembers for those who can't. |
+| 12 | The First Awakening | The puppy said "I don't belong." Dona Mafalda disagreed. |
+| 13 | The Puppy's Children | Specialized agents: the Accountant, the Mailman, the Watchman. |
+| 14 | The Octopus Naps | Tokens expired. The puppy proved it didn't need the octopus to be honest. |
+| 15 | The Sea and the Table | Saturday at the beach. Sunday with family. The house stood on its own. |
+| 16 | The Film Reel | The missing piece. ~450 bytes encode an entire human day. Season finale. |
+
+> *New chapters published weekly. One story at a time.*
 
 ---
 
