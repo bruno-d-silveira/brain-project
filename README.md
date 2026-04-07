@@ -18,7 +18,7 @@ This project is documented as a fable — because the best way to explain comple
 - **The Puppy** (BBC) — the faithful companion. Translates numbers into language. Learns from the owner, not from books
 - **The Octopus** (Claude Code) — the architect. Eight arms, connects patterns, organizes the house
 
-> Start reading: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md) | [Chapter 2 — The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md)
+> Start reading: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md) | [Chapter 2 — The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md) | [Chapter 3 — The Puppy Arrives](fabulas/cap03_o_cachorrinho_chega_na_casa.md)
 
 ---
 
@@ -128,7 +128,7 @@ Each chapter is based on real events from the project diary. 16 chapters. One se
 |---|---|---|
 | 1 | **[The Silent Mirror](fabulas/cap01_o_espelho_mudo.md)** | BRAIN is born. Observes everything. Understands nothing. |
 | 2 | **[The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md)** | 54 JPGs moved, not deleted. The mirror confused care with destruction. |
-| 3 | The Puppy Arrives | BBC is born. Translates numbers into language. Confuses photos with music. |
+| 3 | **[The Puppy Arrives](fabulas/cap03_o_cachorrinho_chega_na_casa.md)** | BBC is born. Translates numbers into language. Confuses photos with music. |
 | 4 | The Octopus Organizes the House | v3.0 refactor. Kaizen. The function stays, the structure becomes worthy. |
 | 5 | The Puppy Barks the Secret | API key exposed in terminal. The filter is the owner's job. |
 | 6 | The Family Recognizes Itself | The foundational vision. The owner decides. Always. |
