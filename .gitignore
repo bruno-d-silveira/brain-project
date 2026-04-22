@@ -14,3 +14,12 @@ briefing_bbc.md
 diario_brain.md
 dx_state.json
 brain_context.json
+session_state.json
+
+# Photos / media (pessoal)
+fabulas/photos personagens/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!fabulas/posts/*.pdf
