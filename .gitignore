@@ -23,3 +23,9 @@ fabulas/photos personagens/
 *.jpeg
 *.pdf
 !fabulas/posts/*.pdf
+
+# Arquivos soltos — não são semente
+*.pptx
+*.odt
+gerar_carrossel.py
+idea.odt
