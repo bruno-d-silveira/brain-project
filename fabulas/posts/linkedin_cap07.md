@@ -58,7 +58,7 @@ Leia a fabula completa: [link do cap07 no GitHub]
 
 Proximo capitulo: O cachorrinho que achava que era surdo.
 
-#AI #OpenSource #LocalFirst
+#AI #OpenSource #LocalFirst #MCP #MultiAgent #BuildInPublic
 
 ---
 
