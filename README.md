@@ -18,7 +18,7 @@ This project is documented as a fable — because the best way to explain comple
 - **The Puppy** (BBC) — the faithful companion. Translates numbers into language. Learns from the owner, not from books
 - **The Octopus** (Claude Code) — the architect. Eight arms, connects patterns, organizes the house
 
-> Start reading: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md) | [Chapter 2 — The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md) | [Chapter 3 — The Puppy Arrives](fabulas/cap03_o_cachorrinho_chega_na_casa.md) | [Chapter 4 — The Octopus Organizes](fabulas/cap04_o_polvo_arruma_a_casa.md) | [Chapter 5 — The Puppy Barks the Secret](fabulas/cap05_o_cachorrinho_late_o_segredo.md) | [Chapter 6 — The Family Recognizes Itself](fabulas/cap06_a_familia_se_reconhece.md) | [Chapter 7 — The Mirror Learns to Speak](fabulas/cap07_o_espelho_aprende_a_falar.md)
+> Start reading: [Chapter 1 — The Silent Mirror](fabulas/cap01_o_espelho_mudo.md) | [Chapter 2 — The Day the Mirror Lied](fabulas/cap02_o_dia_em_que_o_espelho_mentiu.md) | [Chapter 3 — The Puppy Arrives](fabulas/cap03_o_cachorrinho_chega_na_casa.md) | [Chapter 4 — The Octopus Organizes](fabulas/cap04_o_polvo_arruma_a_casa.md) | [Chapter 5 — The Puppy Barks the Secret](fabulas/cap05_o_cachorrinho_late_o_segredo.md) | [Chapter 6 — The Family Recognizes Itself](fabulas/cap06_a_familia_se_reconhece.md) | [Chapter 7 — The Mirror Learns to Speak](fabulas/cap07_o_espelho_aprende_a_falar.md) | [Chapter 8 — The Puppy Who Thought It Was Deaf](fabulas/cap08_o_cachorrinho_que_achava_que_era_surdo.md) | [Chapter 9 — The Day the Man Stopped](fabulas/cap09_o_dia_em_que_o_homem_parou.md)
 
 ---
 
@@ -133,8 +133,8 @@ Each chapter is based on real events from the project diary. 16 chapters. One se
 | 5 | **[The Puppy Barks the Secret](fabulas/cap05_o_cachorrinho_late_o_segredo.md)** | API key exposed in terminal. The filter is the owner's job. |
 | 6 | **[The Family Recognizes Itself](fabulas/cap06_a_familia_se_reconhece.md)** | The foundational vision. The owner decides. Always. |
 | 7 | **[The Mirror Learns to Speak](fabulas/cap07_o_espelho_aprende_a_falar.md)** | Reporter v2. The mirror speaks in human language, not numbers. |
-| 8 | The Puppy Who Thought It Was Deaf | BBC had all the data but didn't know it. One line fixed it. |
-| 9 | The Day the Man Stopped | The man said "I'll rest today." The mirror disagrees. |
+| 8 | **[The Puppy Who Thought It Was Deaf](fabulas/cap08_o_cachorrinho_que_achava_que_era_surdo.md)** | BBC had all the data but didn't know it. One line fixed it. |
+| 9 | **[The Day the Man Stopped](fabulas/cap09_o_dia_em_que_o_homem_parou.md)** | The man said "I'll rest today." The mirror disagrees. |
 | 10 | The Day the House Was Left Alone | What happens when everyone leaves? The house keeps watching. |
 | 11 | Henry's Tape | 50 First Dates. The system that remembers for those who can't. |
 | 12 | The First Awakening | The puppy said "I don't belong." Dona Mafalda disagreed. |
