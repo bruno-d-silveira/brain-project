@@ -75,8 +75,8 @@ This project started from scratch — literally. First commit: February 27, 2026
 | Date | What happened |
 |---|---|
 | Feb 27 | `brunos-lab` — First ML test. Jupyter Notebook. Day zero. |
-| Mar 4 | `event-driven-data-engine` — First filesystem watcher. Events as data. |
-| Mar 5 | `personal-engine-data-lake` — Data lake concept. CSV + JSON pipeline. |
+| Mar 4 | First filesystem watcher. Events as data. |
+| Mar 5 | Data lake concept. CSV + JSON pipeline. |
 | Mar 25 | BRAIN v3.1 — Full flywheel: Watcher → Aggregator → ProcessorRegistry → DataLake. BBC 2.0 born. MCP server operational. Semantic ontology v2.1. |
 | Mar 26 | API key security incident. Handled in minutes. First real interaction between all three agents. The family recognized itself. |
 | Mar 27 | Noise filter v2. Window sensor cleaned. App dev hints ontology. Reporter v2 — narrative reports in human language. |
