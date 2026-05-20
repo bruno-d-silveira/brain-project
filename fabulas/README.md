@@ -36,6 +36,7 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 6. [A Familia se Reconhece](cap06_a_familia_se_reconhece.md)
 7. [O Espelho Aprende a Falar](cap07_o_espelho_aprende_a_falar.md)
 8. [O Cachorrinho que Achava que Era Surdo](cap08_o_cachorrinho_que_achava_que_era_surdo.md)
+9. [O Dia em que o Homem Parou](cap09_o_dia_em_que_o_homem_parou.md)
 
 ---
 

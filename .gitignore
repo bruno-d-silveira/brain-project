@@ -7,6 +7,9 @@ LOG/
 .env
 *.key
 *.pem
+*.pfx
+*.p12
+*.crt
 *.secret
 credentials*
 notas_bbc.md
