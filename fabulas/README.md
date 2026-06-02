@@ -39,6 +39,8 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 9. [O Dia em que o Homem Parou](cap09_o_dia_em_que_o_homem_parou.md)
 10. [O Dia em que a Casa Ficou Sozinha](cap10_o_dia_em_que_a_casa_ficou_sozinha.md)
 
+*Interludio:* **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — entre o 10 e o 11. O capitulo que corta o tempo: contar nao e o mesmo que medir.
+
 ---
 
 *Baseado em fatos reais. Projeto BRAIN — 2026.*
