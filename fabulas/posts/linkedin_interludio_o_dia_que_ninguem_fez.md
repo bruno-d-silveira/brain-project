@@ -17,7 +17,7 @@ Nenhum deles foi renderizado. Nenhum deles estava num video de lancamento. Eles 
 
 ---
 
-Faz 66 dias que eu construo um sistema de monitoramento comportamental que roda 100% na minha maquina. Sem nuvem. Sem telemetria. Cada evento e real. Cada rolo de fita e um dia que existiu de verdade.
+Faz 66 dias que eu construo um sistema de monitoramento comportamental local-first: o lago de dados inteiro mora na minha maquina, e nada sai sem eu autorizar. Sem telemetria. Cada evento e real. Cada rolo de fita e um dia que existiu de verdade.
 
 Ontem a noite, depois da aula, sentei pra escrever um interludio pra fabula que acompanha o projeto. A historia e sobre um visitante que chega numa casa e quer saber como foi o dia dele.
 
@@ -45,7 +45,7 @@ Mas o galo canta mesmo na chuva.
 
 ---
 
-*Baseado em fatos reais. Projeto BRAIN — Human Work Activity Monitor.*
+*Baseado em fatos reais. Projeto BRAIN — Human Activity Monitor.*
 *Dia 66. Cada capitulo e um dia que existiu.*
 
 #AI #LocalFirst #PrivacyByDesign #OpenSource #Alzheimer #ElderCare #BuildInPublic #Fable
