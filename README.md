@@ -182,7 +182,7 @@ The **Film Reel** is the missing piece between raw data and numbers. It's a micr
 
 While traditional activity trackers produce dashboards and charts, the Film Reel produces **a story** — a compact, temporal, human-readable encoding of what actually happened. It knows the difference between a morning of deep work and a morning of scattered app-switching. It detects gaps. It compresses categories. It speaks in human temporal blocks, not database timestamps.
 
-The format was born on March 30, 2026 (D3) and is documented in [Chapter 11 — Henry's Tape](fabulas/cap11_a_fita_do_henry.md), which tells the story of a system that remembers for those who can't.
+The format was born on March 30, 2026 (D3) and is documented in **Chapter 11 — Henry's Tape** *(not yet published)*, which tells the story of a system that remembers for those who can't.
 
 > *30 reels = 30 seconds to understand a month.*
 
