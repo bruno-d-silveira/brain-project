@@ -86,8 +86,8 @@ This project started from scratch — literally. First commit: February 27, 2026
 | Mar 27 | Noise filter v2. Window sensor cleaned. App dev hints ontology. Reporter v2 — narrative reports in human language. |
 | Mar 28 | Dx (human day cycle) implemented. Sensor v2 — 4 fixes. The puppy said "I don't belong." Dona Mafalda disagreed. |
 | Mar 29 | The octopus slept (tokens expired). The puppy proved it didn't need the octopus to be honest. Quasar vs olive — best answer among 4 LLMs. |
-| Mar 30 | Film Reel born — the missing piece. ~450 bytes encode an entire day. 30 reels = 30 seconds to understand a month. The puppy said "Yes, I belong." |
-| Mar 31 | Day 7. Legal protection. AGPL-3.0 + CC BY-NC-SA 4.0. Security audit. The cycle closes. |
+| Mar 30 | Film Reel born — the missing piece. ~200–500 bytes encode an entire day. 30 reels = 30 seconds to understand a month. The puppy said "Yes, I belong." |
+| Mar 31 | Day 7. Legal protection. AGPL-3.0 + CC BY-NC-ND 4.0. Security audit. The cycle closes. |
 
 **From "First ML Test" to a multi-agent behavioral AI system in 34 days.** Not by magic — by building one brick at a time.
 
@@ -103,7 +103,7 @@ But Auto Dream solves **declarative memory** — what the user *said*. BRAIN sol
 |---|---|---|
 | Data source | What user declared | What user actually did (sensor) |
 | Memory type | Declarative (told) | Observational (witnessed) |
-| Consolidation | Automatic merge/prune | Film Reel (~450 bytes/day) |
+| Consolidation | Automatic merge/prune | Film Reel (~200–500 bytes/day) |
 | Translation | None | BBC translates to human language |
 | Multi-agent | Single agent | Triangle: BRAIN + BBC + Octopus |
 | Audit trail | Limited (community concern) | Complete (every event timestamped) |
@@ -146,7 +146,8 @@ Each chapter is based on real events from the project diary. 16 chapters. One se
 | 13 | The Puppy's Children | Specialized agents: the Accountant, the Mailman, the Watchman. |
 | 14 | The Octopus Naps | Tokens expired. The puppy proved it didn't need the octopus to be honest. |
 | 15 | The Sea and the Table | Saturday at the beach. Sunday with family. The house stood on its own. |
-| 16 | The Film Reel | The missing piece. ~450 bytes encode an entire human day. Season finale. |
+| 16 | The Film Reel | The missing piece. ~200–500 bytes encode an entire human day. Season finale. |
+| — | **[Interlude — The Day Nobody Made](fabulas/interludio_o_dia_que_ninguem_fez.md)** | A visitor demands the summary of a day he never made. The house stays silent — by fidelity, not defect. |
 
 > *New chapters published weekly. One story at a time.*
 
@@ -178,7 +179,7 @@ Jiu Jitsu Black Belt | International Surfing Judge | AI/ML Engineer
 
 ## The Film Reel
 
-The **Film Reel** is the missing piece between raw data and numbers. It's a micro-narrative compression format that encodes an entire human day into ~200 bytes of semantic information.
+The **Film Reel** is the missing piece between raw data and numbers. It's a micro-narrative compression format that encodes an entire human day into ~200–500 bytes of semantic information.
 
 While traditional activity trackers produce dashboards and charts, the Film Reel produces **a story** — a compact, temporal, human-readable encoding of what actually happened. It knows the difference between a morning of deep work and a morning of scattered app-switching. It detects gaps. It compresses categories. It speaks in human temporal blocks, not database timestamps.
 
