@@ -1,5 +1,8 @@
 # BRAIN — The Mirror That Doesn't Lie
 
+[![DOI](https://zenodo.org/badge/1192963986.svg)](https://doi.org/10.5281/zenodo.20649046)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9676--3318-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9676-3318)
+
 > *"The plate fell on the floor and broke. An apology doesn't change the fact that it broke."*
 
 BRAIN is a local-first, event-driven behavioral analytics engine. It observes what you **do** — not what you say you do. Your data never leaves your machine. No login. No biometrics. Just observation. (The assistant's *voice* uses an LLM API — the data lake never does.)
