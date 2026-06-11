@@ -2,7 +2,7 @@
 
 > *"The plate fell on the floor and broke. An apology doesn't change the fact that it broke."*
 
-BRAIN is a local-first, event-driven behavioral analytics engine. It observes what you **do** — not what you say you do. No cloud. No login. No biometrics. Just observation.
+BRAIN is a local-first, event-driven behavioral analytics engine. It observes what you **do** — not what you say you do. Your data never leaves your machine. No login. No biometrics. Just observation. (The assistant's *voice* uses an LLM API — the data lake never does.)
 
 It runs silently on your machine, watches filesystem events, app focus changes, and user activity patterns, then builds a semantic behavioral profile over time. **You own every byte of data. Always.**
 
@@ -107,7 +107,7 @@ But Auto Dream solves **declarative memory** — what the user *said*. BRAIN sol
 | Translation | None | BBC translates to human language |
 | Multi-agent | Single agent | Triangle: BRAIN + BBC + Octopus |
 | Audit trail | Limited (community concern) | Complete (every event timestamped) |
-| Works offline | No | BRAIN + sensor: yes, always |
+| Works offline | No | Sensor & lake: always. The puppy's voice degrades gracefully to puppet mode (limited, honest, still useful) |
 
 They don't compete. They complement. Auto Dream organizes what the octopus remembers. BRAIN captures what the mirror sees. Together: the perfect house.
 
