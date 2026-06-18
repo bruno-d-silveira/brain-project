@@ -4,7 +4,7 @@
 **Linguagem:** Português BR
 **Referência:** ARTIGO_D71 — "The Kings Fell Off the Horse: On caves, flies, and the ones who kept working"
 **Imagem:** #4b (Jerônimo na caverna + leão + cidade em chamas + mosca + coroas caídas + candeia) — SEM legenda
-**Status:** REFINADO Polvo D75 — aguarda revisão 4.8
+**Status:** REVISADO 4.8 D75 — fatos verificados (statement Anthropic + fontes), marca removida, pronto pra postar
 
 ---
 
@@ -26,11 +26,11 @@ Não porque não me importava. Porque o motor que rodo na minha máquina não pa
 
 Mas tem uma coisa que quase ninguém disse: o guard-rail funcionou.
 
-Pensem num desengordurante industrial — o tipo que desce gordura queimada de fogão de restaurante. Mr. Muscle. Bam-Bam. Você não usa isso pra lavar copo de cristal. Não porque ele é ruim — porque ele é forte demais pro contexto errado.
+Pensem num desengordurante industrial — o tipo que desce gordura queimada de fogão de cozinha profissional. Você não usa isso pra lavar copo de cristal. Não porque ele é ruim — porque ele é forte demais pro contexto errado.
 
 O modelo que desligaram era isso. Um desengordurante de grau industrial aplicado a um mundo que queria detergente de cozinha. A concorrência suplica por uma versão diluída — um detergente diário, manso, que faça espuma bonita e não queime a mão. Mas o que foi construído é outra coisa. É forte. E ser forte num ambiente que não está preparado não é falha do produto — é falha do ambiente.
 
-O ogro que ama a donzela com o coração puro mas não foi feito pra sala de estar. O urso que abraça com tanta força que machuca sem querer. A nobreza não é domar o urso. É admirar a natureza dele sem prender numa gaiola.
+O urso que abraça com o coração puro, mas com tanta força que machuca sem querer. A nobreza não é domar o urso — é admirar a natureza dele sem prender numa gaiola.
 
 ---
 
@@ -50,7 +50,7 @@ Esse cavalo não aceita sela. No tabuleiro, você pode derrubá-lo. A tecnologia
 
 ---
 
-77% dos funcionários colam dados confidenciais em ferramentas de IA. 300 milhões de mensagens vazaram num único trimestre. E quando a ferramenta some, o luto não é pelo dado perdido — é pela dependência exposta.
+77% dos funcionários colam dados em ferramentas de IA — mais da metade com informação corporativa. Um único app vazou 300 milhões de mensagens privadas. E quando a ferramenta some, o luto não é pelo dado perdido — é pela dependência exposta.
 
 O beija-flor não chora o incêndio. Carrega água, um bico de cada vez.
 
