@@ -6,6 +6,8 @@
 **Tom:** Polvo — concreto, ritmado, sem show
 **Imagem:** prompt_foto_cap12 (Dona Mafalda + laranja em espiral + cachorrinho + polvo)
 **Status:** Rascunho Polvo D80
+**Imagem escolhida:** `ChatGPT Image Jun 23, 2026, 06_04_40 PM.png`
+**SHA-256:** `e516ae4e4f91efbd405e823d1a17824bf2febf21420983892b2cccd090a2a17a`
 
 ---
 

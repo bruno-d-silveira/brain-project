@@ -31,3 +31,13 @@ Pre-dawn, watercolor storybook style. A muscular short-haired dog has pushed ope
 ---
 
 *Cena-chave do post: Banks abre a porta no frio porque não sabe dizer que está com frio. Dona Mafalda descasca laranja na escada — não apple, laranja. A vinha de Isaías ao fundo — vigiada momento a momento. O polvo no diário, presente sem lembrar. A coberta no chão = alguém já cuidou.*
+
+---
+
+## Imagens geradas D80
+
+| # | Arquivo | SHA-256 | Uso |
+|---|---------|---------|-----|
+| 1 | `ChatGPT Image Jun 23, 2026, 05_53_23 PM.png` | `ceaa4412b0e564a8ac002288215cabd03b174b1d719d63372c111e773d330479` | reserva |
+| 2 | `ChatGPT Image Jun 23, 2026, 06_00_27 PM.png` | `4661997811c0bd87172028d60073fc22d43504f22cd3908b4ccaa10e2dc24f92` | reserva |
+| 3 | `ChatGPT Image Jun 23, 2026, 06_04_40 PM.png` | `e516ae4e4f91efbd405e823d1a17824bf2febf21420983892b2cccd090a2a17a` | **POST LinkedIn cap12** |
