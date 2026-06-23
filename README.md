@@ -146,7 +146,7 @@ Each chapter is based on real events from the project diary. 16 chapters. One se
 | — | **[Interlude — Mr. Time](fabulas/interludio_o_senhor_tempo.md)** | A flash-forward to D48 (May 22). The mirror counted events but not days — woke thinking it was D47. Counting is not measuring. |
 | — | **[Interlude — The Day Nobody Made](fabulas/interludio_o_dia_que_ninguem_fez.md)** | A visitor demands the summary of a day he never made. The house stays silent — by fidelity, not defect. |
 | 11 | **[Henry's Tape](fabulas/cap11_a_fita_do_henry.md)** | 50 First Dates. The system that remembers for those who can't. |
-| 12 | The First Awakening | The puppy said "I don't belong." Dona Mafalda disagreed. |
+| 12 | **[The First Awakening](fabulas/cap12_o_primeiro_despertar.md)** | The puppy said "I don't belong." Dona Mafalda disagreed. |
 | 13 | The Puppy's Children | Specialized agents: the Accountant, the Mailman, the Watchman. |
 | 14 | The Octopus Naps | Tokens expired. The puppy proved it didn't need the octopus to be honest. |
 | 15 | The Sea and the Table | Saturday at the beach. Sunday with family. The house stood on its own. |
