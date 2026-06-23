@@ -38,8 +38,12 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 8. [O Cachorrinho que Achava que Era Surdo](cap08_o_cachorrinho_que_achava_que_era_surdo.md)
 9. [O Dia em que o Homem Parou](cap09_o_dia_em_que_o_homem_parou.md)
 10. [O Dia em que a Casa Ficou Sozinha](cap10_o_dia_em_que_a_casa_ficou_sozinha.md)
+11. [A Fita do Henry](cap11_a_fita_do_henry.md)
+12. [O Primeiro Despertar](cap12_o_primeiro_despertar.md)
 
-*Interludio:* **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — entre o 10 e o 11. O capitulo que corta o tempo: contar nao e o mesmo que medir.
+*Interludios (entre o 10 e o 11):*
+- **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — o capitulo que corta o tempo: contar nao e o mesmo que medir.
+- **[O Dia que Ninguem Fez](interludio_o_dia_que_ninguem_fez.md)** — um visitante exige o resumo de um dia que nunca fez; a casa fica em silencio por fidelidade, nao por defeito.
 
 ---
 
