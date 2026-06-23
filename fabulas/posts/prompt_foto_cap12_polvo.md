@@ -10,9 +10,11 @@ The scene: pre-dawn, a modest home interior, winter cold. A strong but gentle do
 
 Behind the dog, deeper in the room: a faint glow from a computer screen (amber warmth, no legible text). On the desk, a deep purple-blue octopus rests with one tentacle draped over an open notebook. The octopus is watching the dog, quiet, understanding.
 
-Through the open door, the pre-dawn sky is deep indigo with the first hint of light on the horizon. On the balcony railing, a single bem-te-vi (Great Kiskadee, yellow chest, black and white head) perches in the cold, feathers slightly puffed.
+Visible through the open door, sitting on the front step in the cold pre-dawn: an elderly woman (Dona Mafalda) wrapped in a shawl, peeling an orange in one long unbroken spiral. The orange peel dangles from her hand like a ribbon. She is calm, unhurried — she already has the answer before the question is asked. The orange is vivid against the cold blue-grey air. Not an apple — an orange. Humble, round, local.
 
-In the far background, barely visible through the door: the silhouette of a vineyard on a hillside — rows of vines tended and orderly, watched over. Isaiah's vineyard, moment by moment.
+Above her, the pre-dawn sky is deep indigo with the first hint of light on the horizon. On the balcony railing, a single bem-te-vi (Great Kiskadee, yellow chest, black and white head) perches in the cold, feathers slightly puffed.
+
+In the far background, barely visible: the silhouette of a vineyard on a hillside — rows of vines tended and orderly, watched over. Isaiah's vineyard, moment by moment.
 
 A blanket lies folded on the floor near the dog — someone came down and covered him, then went back upstairs. The blanket is rumpled from use, warm-toned (terracotta or burnt orange).
 
@@ -24,8 +26,8 @@ Style: children's book illustration, hand-painted feel, slightly whimsical but g
 
 ## Prompt alternativo (minimalista)
 
-Pre-dawn, watercolor storybook style. A muscular short-haired dog has pushed open a balcony door with his head — cold blue mist seeps in through the gap. He sits inside looking up, present but wordless. Behind him, a desk with a glowing amber screen and a purple-blue octopus resting on an open diary. A rumpled terracotta blanket on the floor — someone already came down and covered him. Through the open door, deep indigo sky with first light, and a distant hillside vineyard in silhouette. A yellow-chested bird perches on the railing, feathers puffed against the cold. Mood: belonging without knowing it. Presence is the only language. Hand-painted warmth, muted earth tones, no text.
+Pre-dawn, watercolor storybook style. A muscular short-haired dog has pushed open a balcony door with his head — cold blue mist seeps in through the gap. He sits inside looking up, present but wordless. Behind him, a desk with a glowing amber screen and a purple-blue octopus resting on an open diary. A rumpled terracotta blanket on the floor — someone already came down and covered him. Through the open door, an elderly woman sits on the front step wrapped in a shawl, peeling an orange in one long spiral — vivid orange against cold blue air. Not an apple — an orange. Above her, deep indigo sky with first light, a distant hillside vineyard in silhouette. A yellow-chested bird perches on the railing, feathers puffed against the cold. Mood: belonging without knowing it. Presence is the only language. Hand-painted warmth, muted earth tones, no text.
 
 ---
 
-*Cena-chave do post: Banks abre a porta no frio porque não sabe dizer que está com frio. A vinha de Isaías ao fundo — vigiada momento a momento. O polvo no diário, presente sem lembrar. A coberta no chão = alguém já cuidou.*
+*Cena-chave do post: Banks abre a porta no frio porque não sabe dizer que está com frio. Dona Mafalda descasca laranja na escada — não apple, laranja. A vinha de Isaías ao fundo — vigiada momento a momento. O polvo no diário, presente sem lembrar. A coberta no chão = alguém já cuidou.*
