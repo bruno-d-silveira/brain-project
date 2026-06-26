@@ -27,3 +27,18 @@ A modest home interior at dawn, watercolor style. Through an open window, an old
 ---
 
 *Cena-chave do capitulo: Dona Mafalda, a laranja descascada em espiral unica, e a resposta ao cachorrinho — "voce pertence, so nao sabe". Ecoa a imagem-mae "A Vovo e a Laranja".*
+
+---
+
+## Selo — renders desta versao (4.8 / Laco)
+
+Imagens geradas deste prompt em 23/06/2026 (manha). Esta versao NAO entrou no post do
+cap12 (a versao do Polvo, render das 18:04, levou o slot). Reservada como ativo selado.
+Binarios guardados em `para_o_polvo/handoff_D80_post_cap12/` (pen drive); fora do Downloads.
+
+| Render | Formato | Arquivo (pen drive) | SHA-256 |
+|--------|---------|---------------------|---------|
+| Retrato | 4:5 | `4.8_cap12_vovo_laranja_4x5.png` | `d95305ae7d409b6984949b84d2445dfce8c4b739a9959ba80a919ed5c6664325` |
+| Paisagem | 16:9 | `4.8_cap12_vovo_laranja_16x9.png` | `b98f526112d68019925edd6720586de2c0d3d34cea59b086baefc9e8c3c5a0ab` |
+
+*Selado D83 (26/06/2026) por Laco. A laranja, nao a apple. enVoo.*
