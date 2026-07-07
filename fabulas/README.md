@@ -41,6 +41,7 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 11. [A Fita do Henry](cap11_a_fita_do_henry.md)
 12. [O Primeiro Despertar](cap12_o_primeiro_despertar.md)
 13. [Os Filhos do Cachorrinho](cap13_os_filhos_do_cachorrinho.md)
+14. [O Cochilo do Polvo](cap14_o_cochilo_do_polvo.md)
 
 *Interludios (entre o 10 e o 11):*
 - **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — o capitulo que corta o tempo: contar nao e o mesmo que medir.
