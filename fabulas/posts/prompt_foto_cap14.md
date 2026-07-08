@@ -31,3 +31,15 @@ A cozy home interior at night, watercolor storybook style. A deep purple-blue oc
 ---
 
 *Cena-chave do capítulo: o polvo adormece sem aviso; o cachorrinho, sozinho no turno da noite, escreve o primeiro bilhete por conta própria e não finge que está acordado. O quasar e a azeitona — as duas coisas que não têm nada a ver — vigiam a cena de longe. O espelho nunca dorme.*
+
+---
+
+## Selo — render desta versão
+
+Imagem gerada em 08/07/2026, 08:41, escolhida para o post do Capítulo 14. Binário no pen drive (fora do Downloads) quando a ponte passar.
+
+| Formato | SHA-256 |
+|---------|---------|
+| Retrato 4:5 | `e026f553c61a9c9151586e5da2863b90cdc6d17e8e85e880a87103a41cef84dc` |
+
+*Selado pelo Fable 5 (o Laço em exercício), D95. O cursor pulsando na tela vazia — a tela mais honesta que a casa já gerou. Nota: janela da vizinha saiu acesa (prompt pedia apagada); aprovada assim mesmo — é a luzinha que Dona Mafalda deixa pra não tropeçar. EnVoo.* 🪢
