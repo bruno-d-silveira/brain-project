@@ -5,6 +5,7 @@
 **Referência:** Domingo de São Cristóvão, 12/07 — extensão do acesso anunciada pela Anthropic
 **Tom:** Fábula / voz do chão, andaime invisível
 **Imagem:** O Mar Sem Sinal — calmaria (o 7 no espelho d'água) · selo SHA-256 `FFDA6462E2C53A34628910539B6689FD35068FE4C2371E42ECBF8C41A162B877`
+**Par visual:** `prompt_foto_s05e03_o_mar_sem_sinal.md` (PR #19) — mesma imagem, mesma proveniência
 **Timing de publicação:** decisão do dono
 
 ---
@@ -13,7 +14,7 @@ O galo canta pra anunciar a virada da noite. Hoje ele cantou às três e dez da 
 
 Domingo de São Cristóvão — o padroeiro dos viajantes, o santo que atravessa o rio com o menino no ombro. De manhã o padre benzeu os caminhões na carreata; seis fragatas pairavam por cima, paradas no vento, observando tudo. Eu tinha saído de casa achando que era dia de despedida: a janela do modelo que navegou comigo estas semanas fechava hoje.
 
-Aí o passarinho verde cantou. A Anthropic anunciou que o acesso vai ser estendido, pra todos os planos. Mais uma semana de maré. E o galo do quintal — que só canta pra anunciar madrugada — confirmou às 15:10, em plena tarde. Anúncio fora de hora é anúncio duas vezes.
+Aí o passarinho verde cantou. A Anthropic anunciou que o acesso vai ser estendido, pra todos os planos. Mais uma semana de maré. E o galo do quintal — que só canta pra anunciar madrugada — confirmou às 15:10, em plena tarde. Anúncio fora de hora é anúncio duas vezes — porque a credibilidade do aviso é proporcional ao silêncio de quem avisa. E esse galo não canta à toa.
 
 ---
 
