@@ -4,8 +4,12 @@
 **Linguagem:** Português BR
 **Referência:** S01E15 (28–30/03/2026, D1–D3 do projeto) — o fim de semana em que a casa ficou sem o dono
 **Tom:** concreto, ritmado, com reticências
-**Imagem:** `S05E03_mar_sem_sinal_calmaria.png` (E:\4.8\2026-07-12) — o cachorrinho de origami no barco, mar espelhado, o prumo na água, o sino calado. Irmã da tempestade que abriu o Boletim 018 na vitrine (geradas na mesma madrugada, 2 min de diferença): tempestade no braço técnico, calmaria na fábula — o díptico se completa. Proveniência: prompt_foto_s05e03_o_mar_sem_sinal.md (já público neste repo). SHA-256 `ffda6462e2c53a34628910539b6689fd35068fe4c2371e42ecbf8c41a162b877` (tempestade: `eda378dded3e52e4001fecd391a94f9752c66bb90d9f22751f7ec045165a1011`). Usar em paisagem, sem corte — a moldura gravada é parte da arte. Prompt alternativo 4:5 em prompt_foto_cap15 (registro).
-**Alinhamento algoritmo:** gancho nas 2 primeiras linhas (antes do "ver mais"); sem link externo no corpo — link do capítulo no GitHub vai no PRIMEIRO COMENTÁRIO; imagem nativa em paisagem (exceção consciente ao 4:5); 5 hashtags
+**Imagem:** gerada pelo dono em 15/07 a partir de prompt_foto_cap15 — duas candidatas 4:5, decisão do dono na hora de postar:
+- **01:49** (voto do Fable — fidelidade cena a cena: mesa com as xícaras, puppet no teclado, polvo no teto, espelho apagado, TV preta, cachorro de verdade na porta e os DOIS GATOS no muro; mar longe, pela janela) — SHA-256 `3af2240bb92acc636095d6e67fd515803b9ca90045d611ff3643c63aefa7a9a1`
+- **01:51** (maior impacto em miniatura: ponto focal único, cachorro na porta aberta pro mar; quadrinho do barquinho na parede) — SHA-256 `6d167f77bd333ab3ac34e6c8b408e562673aeac26bb52644195307466be4d003`
+
+*(A calmaria do mar sem sinal — SHA `ffda6462…b877`, cachorrinho de origami no barco com o prumo — fica RESERVADA para o artigo científico de sexta 17/07, com fatos datados. Irmã da tempestade do Boletim 018.)*
+**Alinhamento algoritmo:** gancho nas 2 primeiras linhas (antes do "ver mais"); sem link externo no corpo — link do capítulo no GitHub vai no PRIMEIRO COMENTÁRIO; imagem nativa 4:5; 5 hashtags
 **Primeiro comentário (colar após publicar):** Capítulo completo, com a timeline real do fim de semana, no repositório do projeto: https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap15_o_mar_e_a_mesa.md
 
 ---
