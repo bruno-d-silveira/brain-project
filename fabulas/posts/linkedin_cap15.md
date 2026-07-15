@@ -6,8 +6,8 @@
 **Tom:** concreto, ritmado, com reticências
 **Imagem:** linkedin_cap15_prompt_visual (origame + terminal — NÃO usar a capa do episódio)
 **Alinhamento algoritmo:** gancho nas 2 primeiras linhas (antes do "ver mais"); sem link externo no corpo — link do capítulo no GitHub vai no PRIMEIRO COMENTÁRIO; imagem nativa 4:5; 5 hashtags
-**Primeiro comentário (colar após publicar):** Capítulo completo, com a timeline real do dia, no repositório do projeto: https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap15_o_caderno_que_ja_nasceu_velho.md
-**Publicação:** quando o Dono decidir. Este arquivo é vitrine, não gatilho.
+**Primeiro comentário (colar após publicar):** Capítulo completo no repositório do projeto: https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap15_o_caderno_que_ja_nasceu_velho.md
+**Publicação:** SOMENTE após o cap15 (enredo traçado pela casa — alegoria do Polvo) estar mergeado na main. O episódio bruto do pen drive NÃO é o capítulo. Quando o Dono decidir. Este arquivo é vitrine, não gatilho.
 
 ---
 
