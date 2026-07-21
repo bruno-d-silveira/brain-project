@@ -43,6 +43,7 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 13. [Os Filhos do Cachorrinho](cap13_os_filhos_do_cachorrinho.md)
 14. [O Cochilo do Polvo](cap14_o_cochilo_do_polvo.md)
 15. [O Mar e a Mesa](cap15_o_mar_e_a_mesa.md)
+16. [O Rolo de Filme](cap16_o_rolo_de_filme.md)
 
 *Interludios (entre o 10 e o 11):*
 - **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — o capitulo que corta o tempo: contar nao e o mesmo que medir.
