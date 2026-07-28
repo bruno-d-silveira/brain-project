@@ -48,9 +48,9 @@ E entao ela disse a frase que a casa passou o resto da noite escrevendo:
 
 ---
 
-Em mil oitocentos e quarenta e sete, um medico em Viena reparou numa diferenca entre duas alas de maternidade do mesmo hospital. Numa delas morriam muito mais mulheres que na outra. A diferenca que ele encontrou estava nas maos de quem entrava.
+Em mil oitocentos e quarenta e sete, um medico no Hospital Geral de Viena reparou numa diferenca entre duas alas de maternidade do mesmo predio. Numa delas morriam varias vezes mais mulheres que na outra. A diferenca que ele encontrou estava nas maos de quem entrava.
 
-Ele mandou lavar. A mortalidade despencou.
+Em maio ele mandou lavar com cloreto de cal. Em abril, a mortalidade da ala dos medicos era de dezoito virgula tres por cento. Em junho, dois virgula dois.
 
 Nao tinha teoria. Nao tinha micro-organismo — faltavam decadas pra isso. Tinha um hospital, uma observacao, um caso.
 
