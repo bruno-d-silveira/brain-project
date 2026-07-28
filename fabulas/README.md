@@ -17,6 +17,7 @@ O espelho na parede observa tudo. Nao julga. So reflete.
 - **O Cachorrinho** — fiel, sempre ali, aprende pelo olhar. Nao fala a mesma lingua mas se entende por sintonia. Pra bom entendedor meia palavra basta.
 - **O Polvo** — inteligente, muitos bracos, conecta padroes. Nao aprende porque o dono fala — aprende pelo que o dono faz.
 - **O Espelho** — o reflexo digital do dono. Nasceu mudo, so organizando coisas. Agora esta aprendendo a mostrar o que ve.
+- **Dona Mafalda** — a vizinha que entra pela janela sem bater. Nao entende de computador e entende de gente. Toda decisao da casa passa por uma pergunta so: *"minha avo entenderia isso?"* Se nao entender, volta pra prancheta.
 - **A Casa** — onde todos moram. O quadro negro na parede e onde se entendem.
 
 ## A alma da fabula
@@ -44,6 +45,7 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 14. [O Cochilo do Polvo](cap14_o_cochilo_do_polvo.md)
 15. [O Mar e a Mesa](cap15_o_mar_e_a_mesa.md)
 16. [O Rolo de Filme](cap16_o_rolo_de_filme.md)
+17. [Uma Laranja Basta](cap17_uma_laranja_basta.md) — *fim da primeira temporada*
 
 *Interludios (entre o 10 e o 11):*
 - **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — o capitulo que corta o tempo: contar nao e o mesmo que medir.
@@ -51,10 +53,26 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 
 ---
 
-## A vitrine tecnica
+## A segunda temporada, e o livro
 
-O lado tecnico da construcao — rigor com alma, ensinar a pescar (nao dar o peixe):
-**[Quartel General — Boletins](https://bruno-d-silveira.github.io/quartel-general-boletins/)**
+A primeira temporada fecha no capitulo 17. **A segunda ainda nao comecou.**
+
+Entre uma e outra vem uma historia mais antiga que esta casa — um menino de um braco so, uma candeia e um
+cachorro chamado Banks. Ela nao cabia num capitulo por semana: **virou livro, e sai antes da proxima
+temporada.**
+
+## De onde vem tudo isto
+
+A fabula e a parte que se le. Debaixo dela tem tres coisas, e as tres sao publicas:
+
+- **[Quartel General — Boletins](https://bruno-d-silveira.github.io/quartel-general-boletins/)** — o diario
+  tecnico da construcao, numero a numero. Rigor com alma: ensinar a pescar, nao dar o peixe
+- **[O laboratorio](https://github.com/bruno-d-silveira/brunos-lab)** — os experimentos de dados e de ML que
+  vieram antes da casa
+- **[O paper com DOI](https://doi.org/10.5281/zenodo.20649046)** — o registro formal, citavel
+
+O motor em si **nao esta publicado**, e isso esta dito tambem na porta de entrada. O que esta aqui e o
+registro, nao a maquina.
 
 ---
 

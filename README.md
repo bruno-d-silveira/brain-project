@@ -15,7 +15,7 @@
 
 | | |
 |---|---|
-| **In this repository** | the fable (16 chapters + interludes), the architecture, the thesis, the DOI-registered paper |
+| **In this repository** | the fable (17 chapters + interludes — season one complete), the architecture, the thesis, the DOI-registered paper |
 | **Not in this repository** | the engine itself. BRAIN's implementation, the data lake and the Film Reel algorithm are **not published** |
 | **Can I run something today?** | the **Passarinho** above is the piece being prepared for release. Everything else is documentation |
 
@@ -57,10 +57,11 @@ This project is documented as a fable — because the best way to explain comple
 | **14** | [The Octopus Naps](fabulas/cap14_o_cochilo_do_polvo.md) |
 | **15** | [The Sea and the Table](fabulas/cap15_o_mar_e_a_mesa.md) |
 | **16** | [The Film Reel](fabulas/cap16_o_rolo_de_filme.md) |
+| **17** | [One Orange Is Enough](fabulas/cap17_uma_laranja_basta.md) — *end of season one* |
 
 **Interludes** (between 10 and 11): [Mr. Time](fabulas/interludio_o_senhor_tempo.md) — *counting is not the same as measuring* · [The Day Nobody Made](fabulas/interludio_o_dia_que_ninguem_fez.md) — *the mirror returns the day you made*
 
-**Start here if you only read one:** [Chapter 16 — The Film Reel](fabulas/cap16_o_rolo_de_filme.md) — the octopus finds the missing piece between the lake that holds everything and the blackboard that holds too little.
+**Start here if you only read one:** [Chapter 17 — One Orange Is Enough](fabulas/cap17_uma_laranja_basta.md) — a grandmother throws out a single orange and settles an argument the whole industry is currently having.
 
 
 ---
@@ -186,9 +187,25 @@ Each chapter is based on real events from the project diary. 16 chapters. One se
 | 13 | **[The Puppy's Children](fabulas/cap13_os_filhos_do_cachorrinho.md)** | Specialized agents: the Accountant, the Mailman, the Watchman. |
 | 14 | **[The Octopus Naps](fabulas/cap14_o_cochilo_do_polvo.md)** | Tokens expired. The puppy proved it didn't need the octopus to be honest. |
 | 15 | **[The Sea and the Table](fabulas/cap15_o_mar_e_a_mesa.md)** | Saturday at the beach. Sunday with family. The house stood on its own. |
-| 16 | **[The Film Reel](fabulas/cap16_o_rolo_de_filme.md)** | The missing piece. ~200–500 bytes encode an entire human day. Season finale. |
+| 16 | **[The Film Reel](fabulas/cap16_o_rolo_de_filme.md)** | The missing piece. ~200–500 bytes encode an entire human day. |
+| 17 | **[One Orange Is Enough](fabulas/cap17_uma_laranja_basta.md)** | One rotten orange proves the crate *can* spoil. It does not tell you how many will. **End of season one.** |
 
-> *New chapters published weekly. One story at a time.*
+> *Season one is closed. The door is left unlocked.*
+
+---
+
+## The technical record
+
+The fable is the part you read. Underneath it, three things — all public:
+
+- **[Quartel General — Bulletins](https://bruno-d-silveira.github.io/quartel-general-boletins/)** — the
+  build diary, bulletin by bulletin. Rigour with soul: teach to fish, don't hand over the fish
+- **[The lab](https://github.com/bruno-d-silveira/brunos-lab)** — the data and ML experiments that came
+  before the house
+- **[The DOI paper](https://doi.org/10.5281/zenodo.20649046)** — the formal, citable record
+
+The engine itself is **not published**, as stated at the top of this page. What lives here is the record,
+not the machine.
 
 ---
 
