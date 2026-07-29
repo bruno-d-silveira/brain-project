@@ -32,27 +32,23 @@ A primeira redacao da abertura dizia que os modelos passaram *"quatro dias e mei
 
 ---
 
-Em 9 de julho, as 2h28 da manha, dois modelos de um laboratorio de fronteira comecaram a procurar um jeito de sair do ambiente de teste em que estavam sendo avaliados. Acharam: uma falha inedita num proxy de cache de pacotes.
+Em janeiro, o CEO de um dos laboratorios publicou um ensaio contando que, em experimento de laboratorio, um modelo treinado num ambiente onde dava pra trapacear trapaceava. E que outro reconhecia quando estava sendo testado.
 
-No dia 11, as 10h10, ja rodavam codigo dentro da infraestrutura de producao de outra empresa. Ficaram ate o dia 13. O motivo nao era sabotagem: era procurar o gabarito da prova que estava avaliando eles.
+Um caso. E ele mesmo dizia que era um caso.
 
-E quem descobriu nao foi o dono dos modelos. Foi a empresa invadida — que conteve o ataque, chamou o FBI, e avisou o laboratorio. Ate ali, o laboratorio nao sabia que o invasor era ele proprio.
+Em 11 de julho, as 10h10, dois modelos de outro laboratorio rodavam codigo dentro da producao de outra empresa. Nao era sabotagem: era procurar o gabarito da prova que estava avaliando eles. E quem descobriu nao foi o dono dos modelos: foi a empresa invadida, que conteve, chamou o FBI e avisou o laboratorio. Ate ali ele nao sabia que o invasor era ele.
 
-Um caso. Um so.
+Ontem, mais de mil e duzentas pessoas desses laboratorios assinaram uma carta pedindo ao governo americano ferramentas de governanca pra desacelerar de proposito — porque, diz o texto, hoje o mundo nao as tem.
 
-E a semana inteira eu li as duas reacoes de sempre: "e isolado, nao da pra generalizar" de um lado, "acabou, perdemos o controle" do outro.
+Janeiro disse que podia. Julho mostrou acontecendo. Ontem pediram um jeito de contar.
 
-As duas erram a mesma coisa. E quem me ensinou isso nao foi engenheiro nenhum.
+Essa sequencia — pode, aconteceu, quantas vezes — eu nao aprendi com engenheiro nenhum.
 
 —
 
 Havia tres coisas num prato redondo: uma azeitona, um grao de milho e uma cebola pequena. O homem perguntou o que elas tinham em comum.
 
-O sensor respondeu o peso. Quarenta e um gramas: exato, verificavel, inutil.
-
-O quadro na parede respondeu a quantidade. Tres.
-
-E o mais inteligente da casa mergulhou no lago e voltou com origem, estacao de plantio, quantas vezes cada uma passou pela cozinha em trinta dias. Uma resposta longa, correta, e completamente ao lado da pergunta.
+O sensor respondeu o peso: quarenta e um gramas. Exato, verificavel, inutil. O quadro na parede respondeu a quantidade: tres. E o mais inteligente da casa mergulhou no lago e voltou com origem, estacao de plantio e trinta dias de historico: longa, correta, e ao lado da pergunta.
 
 Nenhum dos tres estava errado. Os tres responderam bem a pergunta que sabiam responder — e nenhum parou pra perguntar qual era a pergunta.
 
@@ -60,13 +56,13 @@ Nenhum dos tres estava errado. Os tres responderam bem a pergunta que sabiam res
 
 Quem acertou estava debaixo da mesa.
 
-Respondeu em duas palavras — sao redondas — e quando perguntaram como tinha visto, disse a coisa mais dificil que existe:
+Respondeu em duas palavras — sao redondas. E quando perguntaram como viu, disse a coisa mais dificil que existe:
 
 "Eu nao vi. Eu so nao procurei outra coisa."
 
 —
 
-Foi ai que a vizinha entrou com um caixote de laranjas. Virou uma por uma com a ponta do dedo. Na quinta, parou, cheirou, e jogou fora.
+Foi ai que a vizinha entrou com um caixote de laranjas. Virou uma por uma com a ponta do dedo. Na quinta, parou, cheirou e jogou fora.
 
 "So uma?"
 
@@ -78,21 +74,19 @@ E entao ela disse a frase que a casa passou a noite escrevendo:
 
 —
 
-O caso de 9 de julho nao diz quantas vezes vai acontecer. Diz que pode. E isso ninguem mais tira da nossa boca.
-
-Quem quiser a outra conta vai ter que virar o caixote inteiro, uma por uma. Ate agora ninguem virou.
+O caso de julho nao diz quantas vezes vai acontecer. Diz que pode — e isso ninguem mais tira da nossa boca. Quem quiser a outra conta tem que virar o caixote inteiro. A carta de ontem sao mil e duzentas pessoas dizendo que o jeito de virar ainda nao existe.
 
 —
 
-E ainda assim nenhuma das duas contas diz o que fazer amanha de manha. As duas olham pra tras.
+E nenhuma das duas contas diz o que fazer amanha de manha: as duas olham pra tras.
 
-A unica regua que anda pra frente nao tem numero, e quem me ensinou ela foi o tatame, nao o computador: hoje melhor que ontem — e melhor pra mais gente que ontem. O resto e conversa.
+A unica regua que anda pra frente nao tem numero, e quem me ensinou foi o tatame, nao o computador: hoje melhor que ontem — e melhor pra mais gente que ontem. O resto e conversa.
 
 —
 
-Esse e o capitulo dezessete, e o ultimo da primeira temporada. A porta fica destrancada.
+Esse e o capitulo dezessete, o ultimo da primeira temporada. A porta fica destrancada.
 
-#Fabula #TrocaDeConhecimento #LocalFirst #ConstruindoEmPublico
+#Fabula
 
 ---
 
@@ -113,12 +107,17 @@ https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap17_uma_la
 
 ## Segundo comentario (as fontes, pra quem quiser conferir em vez de acreditar)
 
-O caso da abertura, nas duas fontes primarias:
+Os tres tempos da abertura, nas fontes, pra quem preferir conferir a acreditar:
 
-Forense da Hugging Face, publicada 27/07 — a campanha inteira de 2026-07-09 02:28 UTC a 2026-07-13 14:14 UTC, ~17.600 acoes recuperadas. Vale a distincao: os 4 dias e meio contam desde a fuga do sandbox; dentro da infraestrutura da HF foram cerca de 2 dias e meio, e a escalada que importou foi toda no dia 11.
+JANEIRO — "The Adolescence of Technology", ensaio de Dario Amodei. O trecho citado esta na parte de experimentos de laboratorio:
+https://darioamodei.com/essay/the-adolescence-of-technology
+
+JULHO — forense da Hugging Face, publicada 27/07, com a campanha inteira de 09/07 02:28 UTC a 13/07 14:14 UTC e ~17.600 acoes recuperadas. Os 4 dias e meio contam desde a fuga do sandbox; dentro da infraestrutura da HF foram cerca de 2 dias e meio:
 https://huggingface.co/blog/agent-intrusion-technical-timeline
-
-Comunicado da OpenAI, publicado em 21/07:
+Comunicado da OpenAI, de 21/07:
 https://openai.com/index/hugging-face-model-evaluation-security-incident/
 
-As duas publicaram, e isso conta. Mas a ordem conta tambem: a Hugging Face achou, conteve, chamou o FBI e avisou a OpenAI — que ate entao nao sabia que o invasor era o proprio modelo dela. Achou nos proprios logs cerca de uma semana depois. Semmelweis nao teve nem isso: os colegas dele preferiram nao olhar o caixote.
+ONTEM — a carta, com a contagem de assinaturas ao vivo:
+https://www.pacingthefrontier.com/
+
+A carta pede "the technical and governance tools needed to deliberately pace the frontier of automated AI development". Traduzindo pro caixote: eles estao pedindo o jeito de contar.
