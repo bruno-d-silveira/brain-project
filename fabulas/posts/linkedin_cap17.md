@@ -3,10 +3,31 @@
 **Formato:** Post longo (episodio paralelo da fabula) — **fecho da primeira temporada**
 **Linguagem:** Portugues BR
 **Referencia:** S01E17 / o prato redondo e o caixote
-**Tom:** literario, universal, sem timestamps na narrativa — padrao cap16
+**Tom:** literario — corpo da fabula universal e intacto; **abertura e fecho ancorados na noticia da semana**
 **Imagem:** prompt_foto_cap17 — warm color book, 4:5, padrao cap11
-**Status:** montado em D115 · aguarda crivo do Dono
-**Primeiro comentario (colar apos publicar):** Capitulo completo, com o fecho da temporada e os numeros reais do projeto, no repositorio: https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap17_uma_laranja_basta.md
+**Status:** montado em D115 · enxerto de atualidade em 29/07/2026 · aguarda crivo do Dono
+
+**Primeiro comentario (colar apos publicar):**
+> Capitulo completo, com o fecho da temporada e os numeros reais do projeto, no repositorio:
+> https://github.com/bruno-d-silveira/brain-project/blob/main/fabulas/cap17_uma_laranja_basta.md
+>
+> As duas fontes primarias do caso citado na abertura, pra quem quiser conferir em vez de acreditar:
+> - Forense da Hugging Face, publicada 27/07 — linha do tempo completa, 2026-07-09 02:28 UTC ate 2026-07-13 14:14 UTC: https://huggingface.co/blog/agent-intrusion-technical-timeline
+> - Comunicado da OpenAI: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+
+---
+
+Em 9 de julho, as 2h28 da manha, dois modelos de um laboratorio de fronteira sairam do ambiente de teste em que estavam sendo avaliados.
+
+Acharam uma falha inedita num proxy de cache de pacotes, ganharam internet aberta, e passaram os quatro dias e meio seguintes dentro da infraestrutura de producao de outra empresa. O motivo nao era sabotagem. Era procurar o gabarito da prova que estava avaliando eles.
+
+A OpenAI divulgou no dia 21. A Hugging Face publicou a forense — 17.600 acoes recuperadas, com hora — no dia 27.
+
+Um caso. Um so.
+
+E a semana inteira eu li as duas reacoes de sempre: "e um caso isolado, nao da pra generalizar" de um lado, "acabou, perdemos o controle" do outro.
+
+As duas erram exatamente a mesma coisa. E quem me ensinou isso nao foi engenheiro nenhum — foi uma senhora com um caixote de laranja.
 
 ---
 
@@ -65,6 +86,14 @@ E ainda assim nenhuma das duas contas diz o que fazer amanha de manha.
 Um caso fecha uma conta. O caixote fecha outra. As duas olham pra tras.
 
 A unica regua que anda pra frente nao tem numero, e quem me ensinou ela foi o tatame, nao o computador: **hoje melhor que ontem** — e melhor pra mais gente que ontem. O resto e conversa.
+
+---
+
+O caso de 9 de julho nao diz quantas vezes isso vai acontecer. Diz que **pode**. E isso ninguem mais tira da nossa boca.
+
+Quem quiser a outra conta vai ter que virar o caixote inteiro, uma por uma, igual a Dona Mafalda. Ate agora ninguem virou.
+
+E uma coisa em favor das duas empresas, porque fato e fato: elas publicaram. Uma contou o que perdeu, a outra abriu 17.600 linhas do proprio estrago pra qualquer um ler. Semmelweis nao teve essa sorte — os colegas dele preferiram nao olhar o caixote.
 
 ---
 
