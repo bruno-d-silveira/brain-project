@@ -61,6 +61,8 @@ This project is documented as a fable — because the best way to explain comple
 
 **Interludes** (between 10 and 11): [Mr. Time](fabulas/interludio_o_senhor_tempo.md) — *counting is not the same as measuring* · [The Day Nobody Made](fabulas/interludio_o_dia_que_ninguem_fez.md) — *the mirror returns the day you made*
 
+**Interlude** (after season one): [The Faucet and the Balm](fabulas/navegacao/interludio_a_torneira_e_o_balsamo.md) — *the water from last night quenches today's thirst*
+
 **Start here if you only read one:** [Chapter 17 — One Orange Is Enough](fabulas/cap17_uma_laranja_basta.md) — a grandmother throws out a single orange and settles an argument the whole industry is currently having.
 
 
