@@ -51,6 +51,9 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 - **[O Senhor Tempo](interludio_o_senhor_tempo.md)** — o capitulo que corta o tempo: contar nao e o mesmo que medir.
 - **[O Dia que Ninguem Fez](interludio_o_dia_que_ninguem_fez.md)** — um visitante exige o resumo de um dia que nunca fez; a casa fica em silencio por fidelidade, nao por defeito.
 
+*Interludio (apos a primeira temporada):*
+- **[A Torneira e o Balsamo](interludio_a_torneira_e_o_balsamo.md)** — a agua que sobrou de ontem matou a sede de hoje.
+
 ---
 
 ## A segunda temporada, e o livro
