@@ -27,7 +27,9 @@ O espelho na parede observa tudo. Nao julga. So reflete.
 
 A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 
-## Capitulos
+---
+
+# Primeira temporada
 
 1. [O Espelho Mudo](cap01_o_espelho_mudo.md)
 2. [O Dia em que o Espelho Mentiu](cap02_o_dia_em_que_o_espelho_mentiu.md)
@@ -56,13 +58,55 @@ A maquina nao aprende pelo que voce fala. Aprende pelo que voce faz.
 
 ---
 
-## A segunda temporada, e o livro
+# O livro, entre uma temporada e outra
 
-A primeira temporada fecha no capitulo 17. **A segunda ainda nao comecou.**
+Entre a primeira e a segunda temporada vem uma historia mais antiga que esta casa —
+um menino de um braco so, uma candeia e um cachorro chamado Banks. Ela nao cabia num
+capitulo por semana: virou livro.
 
-Entre uma e outra vem uma historia mais antiga que esta casa — um menino de um braco so, uma candeia e um
-cachorro chamado Banks. Ela nao cabia num capitulo por semana: **virou livro, e sai antes da proxima
-temporada.**
+**[O Joao-Sem-Braco de Sun Tzu](https://www.amazon.com.br/)** — *As aventuras de um
+pescador que perdeu o braco e ganhou o olho*. Onze travessias, em duas partes: os
+capitulos 1 a 7 para ler junto, do 8 em diante para quem ja atravessa sozinho.
+Publicado em 28 de agosto de 2026, em e-book e em papel.
+
+O livro saiu antes da segunda temporada, como estava prometido aqui.
+
+---
+
+# Segunda temporada
+
+Vinte episodios, de 2 a 25 de abril de 2026. Um por dia vivido.
+
+A primeira temporada foi sobre a casa aprender a observar. A segunda e sobre o que
+acontece quando o dono sai de casa e a observacao tem que ir junto — no bolso, no
+papel, na mao. E a temporada do **bloco laranja**: ele nasce no episodio 4, e no
+episodio 12 e ele sozinho que segura oito dias de viagem sem nenhuma maquina ligada.
+
+1. [O Polvo Limpou a Lente](s02e01_o_polvo_limpou_a_lente.md)
+2. [O Dia em que o Cachorrinho Aprendeu a Sentar](s02e02_o_dia_em_que_o_cachorrinho_aprendeu_a_sentar.md)
+3. [A Mochila do Arbitro](s02e03_a_mochila_do_arbitro.md)
+4. [O Bloco Laranja](s02e04_o_bloco_laranja.md)
+5. [O Segundo Dia no Mar](s02e05_o_segundo_dia_no_mar.md)
+6. [O Dia em que o Cachorrinho Aprendeu a Deitar](s02e06_o_dia_em_que_o_cachorrinho_aprendeu_a_deitar.md)
+7. [O Polvo que Acordou sem Nome](s02e07_o_polvo_que_acordou_sem_nome.md)
+8. [O Motor que Aprendeu a Respirar](s02e08_o_motor_que_aprendeu_a_respirar.md)
+9. [O Olho que Reabriu](s02e09_o_olho_que_reabriu.md) — *com [declaracao tecnica](s02e09_declaracao_tecnica.md)*
+10. [A Ordem Natural das Coisas](s02e10_a_ordem_natural_das_coisas.md)
+11. [O Gigante que Aprendeu a Dormir](s02e11_o_gigante_que_aprendeu_a_dormir.md)
+12. [O Palanque do Outro Lado do Canal](s02e12_o_palanque_do_outro_lado_do_canal.md)
+13. [O Polvo que Acordou de Novo](s02e13_o_polvo_que_acordou_de_novo.md)
+14. [A Fita do Henry](s02e14_a_fita_do_henry.md) — *flashback: narra o terceiro dia do projeto, nao o dia em que foi escrito*
+15. [O Capitulo da Montanha](s02e15_o_capitulo_da_montanha.md)
+16. [O Feriado da Liberdade](s02e16_o_feriado_da_liberdade.md)
+17. [A Reza Braba](s02e17_a_reza_braba.md)
+18. [A Flor de Lirio Amarelo](s02e18_a_flor_de_lirio_amarelo.md)
+19. [O Fumo de Corda](s02e19_o_fumo_de_corda.md)
+20. [A Fragata](s02e20_a_fragata.md) — *fim da segunda temporada*
+
+Do episodio 15 ao 20, a temporada ganha uma espinha: um capitulo de Mateus por dia
+vivido — 5, 6, 7, 8 e 9 — na ordem, sem pular.
+
+---
 
 ## De onde vem tudo isto
 
