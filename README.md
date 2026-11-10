@@ -15,9 +15,9 @@
 
 | | |
 |---|---|
-| **In this repository** | the fable (17 chapters + interludes — season one complete), the architecture, the thesis, the DOI-registered paper |
+| **In this repository** | the fable (season one: 17 chapters + interludes; season two: 20 episodes), the architecture, the thesis, the DOI-registered paper |
 | **Not in this repository** | the engine itself. BRAIN's implementation, the data lake and the Film Reel algorithm are **not published** |
-| **Can I run something today?** | the **Passarinho** above is the piece being prepared for release. Everything else is documentation |
+| **Can I run something today?** | the **Passarinho** above is released: [passarinho](https://github.com/bruno-d-silveira/passarinho). Everything else is documentation |
 
 Said plainly so nobody has to go looking: **this repo is the documentation and the record, not the runnable engine.** The `LICENSE` here (AGPL-3.0) governs code if and when code is published; the fables carry their own licence.
 
@@ -62,6 +62,8 @@ This project is documented as a fable — because the best way to explain comple
 **Interludes** (between 10 and 11): [Mr. Time](fabulas/interludio_o_senhor_tempo.md) — *counting is not the same as measuring* · [The Day Nobody Made](fabulas/interludio_o_dia_que_ninguem_fez.md) — *the mirror returns the day you made*
 
 **Interlude** (after season one): [The Faucet and the Balm](fabulas/interludio_a_torneira_e_o_balsamo.md) — *the water from last night quenches today's thirst*
+
+**Season two** — 20 episodes, 2 to 25 April 2026: [index](fabulas/README.md#segunda-temporada)
 
 **Start here if you only read one:** [Chapter 17 — One Orange Is Enough](fabulas/cap17_uma_laranja_basta.md) — a grandmother throws out a single orange and settles an argument the whole industry is currently having.
 
@@ -168,7 +170,7 @@ They don't compete. They complement. Auto Dream organizes what the octopus remem
 
 ## The Fable Chapters
 
-Each chapter is based on real events from the project diary. 16 chapters. One season. All true.
+Each chapter is based on real events from the project diary. 17 chapters. One season. All true.
 
 | # | Chapter | What really happened |
 |---|---|---|
