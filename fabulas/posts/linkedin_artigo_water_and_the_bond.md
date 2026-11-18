@@ -3,7 +3,8 @@
 **Formato:** Post de feed — o Article vive no perfil, o post traz o leitor
 **Linguagem:** Inglês
 **Referência:** PUBLICAR_EN_D128 — "Water and the Bond: infrastructure arrives before the rule, and the water pays the difference"
-**Imagem:** a confirmar com o Dono qual das imagens geradas foi ao ar (prompts em prompt_foto_artigo_water_and_the_bond.md)
+**Imagem do post:** a praça — idosos sentados no banco vendo a nova geração brincar, o complexo de data center pequeno no horizonte
+**Capa do Article:** a janela — copo d'água no parapeito, tigela do cachorro cheia, cachorro dormindo, gralha com o pinhão na árvore lá fora, cidade distante no horizonte (paisagem)
 **Status:** Article PUBLICADO 10/08/2026 (D128) — https://www.linkedin.com/pulse/water-bond-bruno-silveira-mo5sf — link no primeiro comentário
 
 ---

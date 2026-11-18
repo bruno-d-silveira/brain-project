@@ -2,6 +2,7 @@
 
 **Referência:** PUBLICAR_EN_D128 · publicado 10/08/2026
 **Estado:** imagens já geradas. Este documento registra o prompt que reproduz a cena. Os prompts abaixo estão em 4:5; a capa do Article no LinkedIn é 1200x627 (1,91:1), e a lição ficou registrada no COLAR do D128.
+**O que foi ao ar:** a capa do Article foi a cena da janela (prompt alternativo, "O último centímetro"), regerada em paisagem. O post do feed foi a cena da praça (prompt principal), com os idosos no banco, as crianças e o complexo distante.
 
 ---
 
