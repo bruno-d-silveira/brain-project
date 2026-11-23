@@ -5,7 +5,7 @@
 **Referência:** `linkedin_cap13.md` (01/07/2026) + piloto F (21/11/2026) + bloco laranja de 22/11 (07:17)
 **Tom:** concreto, ritmado, com reticências. Sem bragging, sem sermão.
 **Link:** o brain-project vai no primeiro comentário, não no corpo do post
-**Status:** rascunho 22/11/2026 · aguarda crivo do Dono
+**Status:** PUBLICADO 23/11/2026, 07:57 (enviado 07:55). Vídeo: piloto G2, com os pianos do Suno Pro. Legenda EN conferida no ar. Link: https://lnkd.in/p/dHc3f7GW
 
 ---
 
